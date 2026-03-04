@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Local Craft Agent config/runtime (do not sync)
+.claude-plugin/
+config.json
+views.json
+events.jsonl
+labels/
+sessions/
+skills/
+sources/
+statuses/
